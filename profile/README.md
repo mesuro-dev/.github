@@ -13,8 +13,9 @@
 
 ---
 
-Most shop plugins can only add up surcharges, and every product has to be maintained on its own. mesuro is a configurator builder for products that customers put together themselves:
+mesuro is one backend for all your configurable products. You build configurators from a kit of reusable building blocks, manage them in one place, and use them in whichever shop system you run:
 
+- **One backend, any shop.** Products, options, prices and rules live in mesuro, not in your shop. Embed the configurator on any website with a script; plugins for WooCommerce and Shopware are planned.
 - **Reusable building blocks.** Define options, dimensions and surcharges once and use them across your whole catalogue.
 - **Your own flows and rules.** Arrange steps by drag and drop, and add dependencies and size limits so invalid combinations can't be chosen.
 - **AI as a shortcut.** Describe a product in plain language or import an existing price list, then review the draft before it goes live.
@@ -25,6 +26,6 @@ mesuro is in early development. We're looking for a small group of pilot busines
 
 ## Contact
 
-Interested in the pilot or in working together? Write to [hallo@mesuro.at](mailto:hallo@mesuro.at).
+Interested in the pilot or in working together? Write to [hello@mesuro.at](mailto:hello@mesuro.at).
 
 <sub>Made in Graz, Austria.</sub>
